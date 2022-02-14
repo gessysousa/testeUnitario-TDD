@@ -1,0 +1,10 @@
+D:\Projetos\TesteDeUnidadeTDD\Alura.LeilaoOnline\Alura.LeilaoOnline.Core\bin\Debug\netcoreapp3.1\Alura.LeilaoOnline.Core.deps.json
+D:\Projetos\TesteDeUnidadeTDD\Alura.LeilaoOnline\Alura.LeilaoOnline.Core\bin\Debug\netcoreapp3.1\Alura.LeilaoOnline.Core.dll
+D:\Projetos\TesteDeUnidadeTDD\Alura.LeilaoOnline\Alura.LeilaoOnline.Core\bin\Debug\netcoreapp3.1\Alura.LeilaoOnline.Core.pdb
+D:\Projetos\TesteDeUnidadeTDD\Alura.LeilaoOnline\Alura.LeilaoOnline.Core\obj\Debug\netcoreapp3.1\Alura.LeilaoOnline.Core.csproj.AssemblyReference.cache
+D:\Projetos\TesteDeUnidadeTDD\Alura.LeilaoOnline\Alura.LeilaoOnline.Core\obj\Debug\netcoreapp3.1\Alura.LeilaoOnline.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\TesteDeUnidadeTDD\Alura.LeilaoOnline\Alura.LeilaoOnline.Core\obj\Debug\netcoreapp3.1\Alura.LeilaoOnline.Core.AssemblyInfoInputs.cache
+D:\Projetos\TesteDeUnidadeTDD\Alura.LeilaoOnline\Alura.LeilaoOnline.Core\obj\Debug\netcoreapp3.1\Alura.LeilaoOnline.Core.AssemblyInfo.cs
+D:\Projetos\TesteDeUnidadeTDD\Alura.LeilaoOnline\Alura.LeilaoOnline.Core\obj\Debug\netcoreapp3.1\Alura.LeilaoOnline.Core.csproj.CoreCompileInputs.cache
+D:\Projetos\TesteDeUnidadeTDD\Alura.LeilaoOnline\Alura.LeilaoOnline.Core\obj\Debug\netcoreapp3.1\Alura.LeilaoOnline.Core.dll
+D:\Projetos\TesteDeUnidadeTDD\Alura.LeilaoOnline\Alura.LeilaoOnline.Core\obj\Debug\netcoreapp3.1\Alura.LeilaoOnline.Core.pdb
